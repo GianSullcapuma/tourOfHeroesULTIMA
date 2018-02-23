@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\heroes"
+    "\\app\\dashboard"
   ],
-  "SelectedNode": "\\app\\heroes\\heroes.component.html",
+  "SelectedNode": "\\app\\app.component.html",
   "PreviewInSolutionExplorer": false
 }
